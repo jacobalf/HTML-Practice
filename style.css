@@ -1,0 +1,34 @@
+body {
+  background-color: azure;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 20px;
+  border-color: grey;
+}
+
+img {
+  height: 300px;
+}
+
+.firsttable {
+  padding: 100px;
+}
+
+.div1 {
+  padding: 100px;
+}
+
+.div2 {
+  padding: 100px;
+}
+
+.div3 {
+  padding: 100px;
+}
+
+.div4 {
+  padding: 100px;
+}
