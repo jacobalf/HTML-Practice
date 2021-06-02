@@ -1,5 +1,17 @@
+a {
+  color: green;
+}
+
 body {
-  background-color: azure;
+  background-image: linear-gradient( #f4eeff, #dcd6f7, #a6b1e1, #424874);
+}
+
+h1 {
+  color: #769fcd;
+}
+
+h3 {
+  color: black;
 }
 
 hr {
@@ -11,10 +23,6 @@ hr {
 
 img {
   height: 300px;
-}
-
-.firsttable {
-  padding: 100px;
 }
 
 .div1 {
@@ -30,5 +38,17 @@ img {
 }
 
 .div4 {
+  padding: 100px;
+}
+
+.h1:hover {
+  color: red;
+}
+
+.h3:hover {
+  color: red;
+}
+
+.firsttable {
   padding: 100px;
 }
